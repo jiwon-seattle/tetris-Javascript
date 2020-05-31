@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Tetris
+  Tetris :floppy_disk:
 </h1>
 
 a simple tetris game developed in Javascript.
