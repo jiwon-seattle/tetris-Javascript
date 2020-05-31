@@ -57,7 +57,6 @@ a simple tetris game developed in Javascript.
   some() method tests whether at least one element in the array passes the test implementation by the provided function.
 </details>
 
-Etc. <br/>
 * forEach()
 * some()
 * add()
