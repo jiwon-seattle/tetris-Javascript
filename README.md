@@ -8,7 +8,6 @@ a simple tetris game developed in Javascript.
 ## 🚀 Quick start
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
     git clone https://github.com/jiwon-seattle/tetris-Javascript
     cd respository
     ```
@@ -58,6 +57,7 @@ a simple tetris game developed in Javascript.
   some() method tests whether at least one element in the array passes the test implementation by the provided function.
 </details>
 
+Etc. <br/>
 * forEach()
 * some()
 * add()
