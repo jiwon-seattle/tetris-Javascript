@@ -17,11 +17,12 @@ a simple tetris game developed in Javascript.
 
 ## 🧐 What I covered Javascript method
 
-* addEventListener()
+1. addEventListener()
 <details>
   <summary>addEventListener()</summary>
   The `EventTarget` method `addEventListener()` sets up a function that will be called whenever the specified event is delivered to the target. Common targets are `Element`, `Document`, and `Window`, but the target may be any object that supports events (such as XMLHttpRequest).
 </details>
+
 * querySelector()
 * querySelectorAll()
 * keyCode()
